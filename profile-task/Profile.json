@@ -1,0 +1,168 @@
+{
+    "login":[
+        {
+            "title":"Schedule",
+            "iconLeft" : true,
+            "iconRight" : false,
+            "iconCode" : ""
+        },
+        {
+            "title":"My Orders",
+            "iconLeft" : true,
+            "iconRight" : false,
+            "iconCode" : ""
+        },
+        {
+            "title":"Statistics",
+            "iconLeft" : true,
+            "iconRight" : false,
+            "iconCode" : ""
+        },
+        {
+            "title":"My Account",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"Settings",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"About Us",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"Contact Us",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Logout",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ],
+    "MyDefault":[
+        {
+            "title":"My Orders",
+            "iconLeft" : true,
+            "iconRight" : false,
+            "iconCode" : ""
+        },
+        {
+            "title":"Statistics",
+            "iconLeft" : true,
+            "iconRight" : false,
+            "iconCode" : ""
+        },
+        {
+            "title":"Settings",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"About Us",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"Contact Us",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ],
+    "MyAccount":[
+        {
+            "title":"My Active Features",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Redeem",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Backup/Restore",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"Manage Devices",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ],
+    "Settings":[
+        {
+            "title":"Language",
+            "iconLeft" : false,
+            "iconRight" : true,
+            "iconCode" : ""
+        },
+        {
+            "title":"Show Recents",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ],
+    "AboutUs":[
+        {
+            "title":"Share",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Terms and Conditions",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Privacy Policy",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"More about Semanoor",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ],
+    "Backup/Restore":[
+        {
+            "title":"Backup",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Restore",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"Delete",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ],
+    "Language":[
+        {
+            "title":"English",
+            "iconLeft" : false,
+            "iconRight" : false
+        },
+        {
+            "title":"العربية",
+            "iconLeft" : false,
+            "iconRight" : false
+        }
+    ]
+}
